@@ -1,0 +1,4 @@
+imports:
+  - architecture/theGarden/dochub.yaml
+  - architecture/theFerm/dochub.yaml
+  - architecture/theMarket/dochub.yaml

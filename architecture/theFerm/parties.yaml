@@ -1,0 +1,10 @@
+parties:  
+
+  theFerm:
+      title: The Ferm
+
+  theFerm.theGarden:
+    title: The Garden
+
+  theFerm.theMarket:
+    title: The Market
